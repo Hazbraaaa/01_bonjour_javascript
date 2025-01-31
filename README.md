@@ -1,1 +1,1 @@
-# 01_bonjour_javascript
+# Exercice individuel => 01_bonjour_javascript
